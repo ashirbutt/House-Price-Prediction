@@ -28,10 +28,7 @@ The models were evaluated using the following metrics from sklearn:
 ## 5. Hyperparameter Tuning
 Hyperparameter tuning was performed using **GridSearchCV** to optimize the models. Several models were tuned, and their performance was evaluated. The best-performing model was **KNeighbors Regressor**, achieving a score of **99%**.
 
-## Installation
-To run this project locally, follow these steps:
-Clone the repository
-git clone https://github.com/Waseem2212/House_Price_Prediction
+
    
 ## Results
 - The KNeighbors Regressor achieved a 99% accuracy score after hyperparameter tuning.
